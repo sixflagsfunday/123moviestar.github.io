@@ -1,0 +1,35 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  padding: 20px;
+  font-size: 22px;
+}
+
+h1 {
+  color: #ed225d;
+}
+
+p {
+  font-family: "Times New Roman";
+  color: rgba(0,0,0,.7);
+  max-width: 800px;
+}
+
+a {
+  color: #2d7bb6;
+  text-decoration: none;
+}
+
+code {
+  background: #ddd;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Canvas element created by p5 */
+canvas {
+  border: solid 8px #ddd;
+  display: block;
+  margin: 40px 0;
+}
